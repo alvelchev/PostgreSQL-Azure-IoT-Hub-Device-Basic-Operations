@@ -1,0 +1,20 @@
+{
+  "name": "client_simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Koller",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "azure-iot-device": "1.12.2",
+    "azure-iot-device-amqp": "1.11.2",
+    "azure-iot-device-http": "1.11.2",
+    "azure-iot-device-mqtt": "1.11.2",
+    "dotenv": "^8.2.0",
+    "pg": "^8.0.3"
+  }
+}
